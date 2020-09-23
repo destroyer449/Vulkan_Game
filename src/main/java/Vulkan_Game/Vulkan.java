@@ -191,6 +191,7 @@ public class Vulkan {
         }
     }
 
+    //TODO finish function
     private PointerBuffer validationLayersAsPointerBuffer() {
 
         MemoryStack stack = stackGet();
