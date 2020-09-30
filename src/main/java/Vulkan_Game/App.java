@@ -7,6 +7,6 @@ import Vulkan_Game.Vulkan;
 public class App {
     public static void main(String[] args) {
         Vulkan vulkan = new Vulkan();
-        vulkan.run();
+        vulkan.activate();
     }
 }
