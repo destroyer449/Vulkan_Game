@@ -2327,7 +2327,7 @@ public class Vulkan {
 
     }
 
-    public void activate() {
+    public static void main(String[] args) {
 
         HelloTriangleApplication app = new HelloTriangleApplication();
 
